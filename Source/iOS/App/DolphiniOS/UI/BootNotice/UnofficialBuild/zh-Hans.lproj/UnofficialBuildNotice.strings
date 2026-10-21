@@ -1,0 +1,8 @@
+/* Class = "UILabel"; text = "DolphiniOS is NOT an official version of Dolphin. It is a separate version based on the original Dolphin's code.\n\nDO NOT ask for help on the official Dolphin forums or report bugs on the official Dolphin bug tracker. They will not be able to assist you.\n\nIf you need help, go to the Settings tab and tap \"Help\"."; ObjectID = "G2L-KW-hUh"; */
+"G2L-KW-hUh.text" = "DolphiniOS 并非 Dolphin 的官方版本，它是基于原版 Dolphin 代码的独立版本。\n\n请勿在 Dolphin 官方论坛寻求帮助，或向 Dolphin 官方缺陷跟踪系统报告错误。他们无法为你提供帮助。\n\n如需帮助，请前往“设置”标签页并轻点“帮助”。";
+
+/* Class = "UILabel"; text = "Note"; ObjectID = "MKg-MP-jJG"; */
+"MKg-MP-jJG.text" = "注释";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "jPS-qP-47c"; */
+"jPS-qP-47c.normalTitle" = "确定";

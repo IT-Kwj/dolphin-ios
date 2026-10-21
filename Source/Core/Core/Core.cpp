@@ -6,6 +6,7 @@
 #include <algorithm>
 #include <atomic>
 #include <cstring>
+#include <ctime>
 #include <functional>
 #include <mutex>
 #include <optional>
@@ -741,7 +742,12 @@ static std::optional<std::string> GenerateScreenshotName()
   const auto local_time = Common::LocalTime(cur_time);
   if (!local_time)
     return std::nullopt;
-  const std::string base_name = fmt::format("{}_{:%Y-%m-%d_%H-%M-%S}", path_prefix, *local_time);
+
+  char time_string[32];
+  std::tm time_buffer = *local_time;
+  std::strftime(time_string, sizeof(time_string), "%Y-%m-%d_%H-%M-%S", &time_buffer);
+
+  const std::string base_name = fmt::format("{}_{}", path_prefix, time_string);
 
   // First try a filename without any suffixes, if already exists then append increasing numbers
   std::string name = fmt::format("{}.png", base_name);

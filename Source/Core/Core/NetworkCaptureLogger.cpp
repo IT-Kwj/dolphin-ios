@@ -6,6 +6,7 @@
 #include <array>
 #include <cerrno>
 #include <cstring>
+#include <ctime>
 #include <iterator>
 
 #include <fmt/chrono.h>
@@ -81,9 +82,12 @@ NetworkCaptureType BinarySSLCaptureLogger::GetCaptureType() const
 
 PCAPSSLCaptureLogger::PCAPSSLCaptureLogger()
 {
-  const std::string filepath =
-      fmt::format("{}{} {:%Y-%m-%d %Hh%Mm%Ss}.pcap", File::GetUserPath(D_DUMPSSL_IDX),
-                  SConfig::GetInstance().GetGameID(), *Common::LocalTime(std::time(nullptr)));
+  char time_string[32];
+  std::tm time_buffer = *Common::LocalTime(std::time(nullptr));
+  std::strftime(time_string, sizeof(time_string), "%Y-%m-%d %Hh%Mm%Ss", &time_buffer);
+
+  const std::string filepath = fmt::format("{}{} {}.pcap", File::GetUserPath(D_DUMPSSL_IDX),
+                                           SConfig::GetInstance().GetGameID(), time_string);
   m_file = std::make_unique<Common::PCAP>(
       new File::IOFile(filepath, "wb", File::SharedAccess::Read), Common::PCAP::LinkType::Ethernet);
 }

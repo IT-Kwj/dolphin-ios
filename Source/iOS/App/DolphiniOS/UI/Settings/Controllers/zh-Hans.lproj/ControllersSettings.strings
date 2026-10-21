@@ -1,0 +1,104 @@
+/* Class = "UILabel"; text = "Controller Type"; ObjectID = "0a5-qE-dtf"; */
+"0a5-qE-dtf.text" = "控制器类型";
+
+/* Class = "UILabel"; text = "Opacity"; ObjectID = "3Ew-Kg-2Wd"; */
+"3Ew-Kg-2Wd.text" = "不透明度";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "3FD-oQ-HfY"; */
+"3FD-oQ-HfY.text" = "端口 ";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "3dx-B2-Jzg"; */
+"3dx-B2-Jzg.text" = "类型";
+
+/* Class = "UINavigationItem"; title = "Controller Type"; ObjectID = "4iU-VX-Ucz"; */
+"4iU-VX-Ucz.title" = "控制器类型";
+
+/* Class = "UINavigationItem"; title = "Touchscreen"; ObjectID = "5aG-Ll-qMU"; */
+"5aG-Ll-qMU.title" = "触摸屏";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "7w3-NX-Hrb"; */
+"7w3-NX-Hrb.text" = "端口 ";
+
+/* Class = "UILabel"; text = "Mode"; ObjectID = "9qw-ES-bA9"; */
+"9qw-ES-bA9.text" = "模式";
+
+/* Class = "UILabel"; text = "Controller Type"; ObjectID = "AIa-fa-fTJ"; */
+"AIa-fa-fTJ.text" = "控制器类型";
+
+/* Class = "UINavigationItem"; title = "Touch IR Pointer"; ObjectID = "APo-zH-Za6"; */
+"APo-zH-Za6.title" = "触摸红外指针";
+
+/* Class = "UITableViewSection"; headerTitle = "Wii Remotes"; ObjectID = "Cty-Gq-dem"; */
+"Cty-Gq-dem.headerTitle" = "Wii 遥控器";
+
+/* Class = "UILabel"; text = "Controller Type"; ObjectID = "Eva-xl-Dgr"; */
+"Eva-xl-Dgr.text" = "控制器类型";
+
+/* Class = "UILabel"; text = "Controller Type"; ObjectID = "Gmv-tf-aDh"; */
+"Gmv-tf-aDh.text" = "控制器类型";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "L9B-1H-TUh"; */
+"L9B-1H-TUh.text" = "端口 ";
+
+/* Class = "UILabel"; text = "Controller Type"; ObjectID = "MJ9-BR-2yi"; */
+"MJ9-BR-2yi.text" = "控制器类型";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "Puc-EL-eCz"; */
+"Puc-EL-eCz.text" = "端口 ";
+
+/* Class = "UILabel"; text = "Disabled"; ObjectID = "Q2r-yw-vpr"; */
+"Q2r-yw-vpr.text" = "禁用";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "QBF-7j-VUX"; */
+"QBF-7j-VUX.text" = "端口 ";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "Rkl-bg-gKd"; */
+"Rkl-bg-gKd.text" = "端口 ";
+
+/* Class = "UITableViewSection"; headerTitle = "Alternate Input Sources"; ObjectID = "VLr-yw-s2d"; */
+"VLr-yw-s2d.headerTitle" = "其他输入源";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "Zqc-72-FU9"; */
+"Zqc-72-FU9.text" = "端口 ";
+
+/* Class = "UILabel"; text = "Follow"; ObjectID = "c3Q-dD-VRP"; */
+"c3Q-dD-VRP.text" = "跟随";
+
+/* Class = "UILabel"; text = "Touch IR Pointer"; ObjectID = "eMf-Yk-iEH"; */
+"eMf-Yk-iEH.text" = "触摸红外指针";
+
+/* Class = "UINavigationItem"; title = "Controllers"; ObjectID = "eWK-GM-2eG"; */
+"eWK-GM-2eG.title" = "控制器";
+
+/* Class = "UILabel"; text = "Touchscreen"; ObjectID = "eiD-GN-cpM"; */
+"eiD-GN-cpM.text" = "触摸屏";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "lfC-u8-XC9"; */
+"lfC-u8-XC9.text" = "端口 ";
+
+/* Class = "UILabel"; text = "Controller Type"; ObjectID = "oq6-jD-kt6"; */
+"oq6-jD-kt6.text" = "控制器类型";
+
+/* Class = "UILabel"; text = "Controller Type"; ObjectID = "s1j-8h-JNz"; */
+"s1j-8h-JNz.text" = "控制器类型";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "w4w-Uf-yIX"; */
+"w4w-Uf-yIX.text" = "类型";
+
+/* Class = "UINavigationItem"; title = "Type"; ObjectID = "wgV-HE-7Zc"; */
+"wgV-HE-7Zc.title" = "类型";
+
+/* Class = "UILabel"; text = "Drag"; ObjectID = "wuc-2W-kqp"; */
+"wuc-2W-kqp.text" = "拖动";
+
+/* Class = "UILabel"; text = "Configure"; ObjectID = "yJZ-zO-pu1"; */
+"yJZ-zO-pu1.text" = "配置";
+
+/* Class = "UITableViewSection"; headerTitle = "GameCube Controllers"; ObjectID = "yKB-ky-Uru"; */
+"yKB-ky-Uru.headerTitle" = "GameCube 控制器";
+
+/* Class = "UILabel"; text = "Controller Type"; ObjectID = "yNG-ug-BwA"; */
+"yNG-ug-BwA.text" = "控制器类型";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "yof-2U-Ksv"; */
+"yof-2U-Ksv.text" = "类型";

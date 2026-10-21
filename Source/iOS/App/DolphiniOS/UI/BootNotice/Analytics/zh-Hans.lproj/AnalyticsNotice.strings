@@ -1,0 +1,14 @@
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "Ddp-vN-h8U"; */
+"Ddp-vN-h8U.normalTitle" = "否";
+
+/* Class = "UILabel"; text = "Analytics"; ObjectID = "MKg-MP-jJG"; */
+"MKg-MP-jJG.text" = "分析";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "jPS-qP-47c"; */
+"jPS-qP-47c.normalTitle" = "是";
+
+/* Class = "UILabel"; text = "Do you authorize Dolphin to report information to Dolphin's developers?"; ObjectID = "u3m-ON-qdg"; */
+"u3m-ON-qdg.text" = "是否授权 Dolphin 向开发者报告信息?";
+
+/* Class = "UILabel"; text = "If authorized, Dolphin can collect data on its performance, feature usage, and configuration, as well as data on your system's hardware and operating system.  No private data is ever collected. This data helps us understand how people and emulated games use Dolphin and prioritize our efforts. It also helps us identify rare configurations that are causing bugs, performance and stability issues.  This authorization can be revoked at any time through Dolphin's settings."; ObjectID = "G2L-KW-hUh"; */
+"G2L-KW-hUh.text" = "If authorized, Dolphin can collect data on its performance, feature usage, and configuration, as well as data on your system's hardware and operating system.  No private data is ever collected. This data helps us understand how people and emulated games use Dolphin and prioritize our efforts. It also helps us identify rare configurations that are causing bugs, performance and stability issues.  This authorization can be revoked at any time through Dolphin's settings.";

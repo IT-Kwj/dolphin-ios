@@ -1,0 +1,38 @@
+/* Class = "UILabel"; text = "Add"; ObjectID = "8VG-6k-LKn"; */
+"8VG-6k-LKn.text" = "添加";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "9D9-RV-UtI"; */
+"9D9-RV-UtI.placeholder" = "名称";
+
+/* Class = "UILabel"; text = "Creator"; ObjectID = "A9U-0o-Wck"; */
+"A9U-0o-Wck.text" = "创建者";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "KWd-Ts-WDC"; */
+"KWd-Ts-WDC.text" = "名称";
+
+/* Class = "UINavigationItem"; title = "Gecko"; ObjectID = "Lji-ig-zDB"; */
+"Lji-ig-zDB.title" = "Gecko";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Lmb-Y5-qyH"; */
+"Lmb-Y5-qyH.text" = "标签";
+
+/* Class = "UITableViewSection"; headerTitle = "Notes:"; ObjectID = "OQZ-AS-mJj"; */
+"OQZ-AS-mJj.headerTitle" = "备注：";
+
+/* Class = "UITableViewSection"; headerTitle = "Code"; ObjectID = "Pg9-IO-fXw"; */
+"Pg9-IO-fXw.headerTitle" = "代码";
+
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "Qgk-bh-Xrj"; */
+"Qgk-bh-Xrj.title" = "编辑";
+
+/* Class = "UILabel"; text = "Download Codes"; ObjectID = "Rw8-Eb-Xfr"; */
+"Rw8-Eb-Xfr.text" = "下载代码";
+
+/* Class = "UITextView"; text = "Code..."; ObjectID = "e3W-eX-hFY"; */
+"e3W-eX-hFY.text" = "代码...";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "sZm-Df-wvq"; */
+"sZm-Df-wvq.placeholder" = "名称";
+
+/* Class = "UITextView"; text = "Code..."; ObjectID = "tld-AY-csr"; */
+"tld-AY-csr.text" = "代码...";

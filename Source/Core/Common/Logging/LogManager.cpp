@@ -7,6 +7,7 @@
 #include <chrono>
 #include <cstdarg>
 #include <cstring>
+#include <ctime>
 #include <locale>
 #include <memory>
 #include <mutex>
@@ -211,7 +212,12 @@ std::string LogManager::GetTimestamp()
   const auto now = std::chrono::system_clock::now();
   const auto now_s = std::chrono::floor<std::chrono::seconds>(now);
   const auto now_ms = std::chrono::floor<std::chrono::milliseconds>(now);
-  return fmt::format("{:%M:%S}:{:03}", now_s, (now_ms - now_s).count());
+
+  const std::time_t now_time = std::chrono::system_clock::to_time_t(now_s);
+  std::tm tm{};
+  gmtime_r(&now_time, &tm);
+
+  return fmt::format("{:02}:{:02}:{:03}", tm.tm_min, tm.tm_sec, (now_ms - now_s).count());
 }
 
 void LogManager::LogWithFullPath(LogLevel level, LogType type, const char* file, int line,

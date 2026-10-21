@@ -1,0 +1,8 @@
+/* Class = "UILabel"; text = "Preparing to update...\nThis can take a while."; ObjectID = "5Nm-Xv-hIm"; */
+"5Nm-Xv-hIm.text" = "正在准备更新……\n这可能需要一段时间。";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "PlL-uA-UFC"; */
+"PlL-uA-UFC.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "Updating"; ObjectID = "SlU-67-9I9"; */
+"SlU-67-9I9.text" = "正在更新";

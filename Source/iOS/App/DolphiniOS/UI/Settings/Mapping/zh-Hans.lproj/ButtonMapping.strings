@@ -1,0 +1,74 @@
+/* Class = "UILabel"; text = "Profile"; ObjectID = "2kH-hZ-P8d"; */
+"2kH-hZ-P8d.text" = "预设";
+
+/* Class = "UILabel"; text = "Advanced"; ObjectID = "4R4-R7-MIT"; */
+"4R4-R7-MIT.text" = "高级";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "589-9A-3FJ"; */
+"589-9A-3FJ.text" = "设置";
+
+/* Class = "UINavigationItem"; title = "Group Edit"; ObjectID = "5bv-1o-ULB"; */
+"5bv-1o-ULB.title" = "编辑分组";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "6Do-UY-Ydx"; */
+"6Do-UY-Ydx.text" = "值";
+
+/* Class = "UILabel"; text = "Group"; ObjectID = "9OG-gK-jjJ"; */
+"9OG-gK-jjJ.text" = "分组";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "Gy6-Je-dKp"; */
+"Gy6-Je-dKp.text" = "设备";
+
+/* Class = "UILabel"; text = "Load"; ObjectID = "JZa-Qa-Sct"; */
+"JZa-Qa-Sct.text" = "载入";
+
+/* Class = "UINavigationItem"; title = "Load"; ObjectID = "ObR-Mk-fgL"; */
+"ObR-Mk-fgL.title" = "载入";
+
+/* Class = "UILabel"; text = "Input"; ObjectID = "Owt-Jb-zA5"; */
+"Owt-Jb-zA5.text" = "输入";
+
+/* Class = "UINavigationItem"; title = "Device"; ObjectID = "Pef-lB-fso"; */
+"Pef-lB-fso.title" = "设备";
+
+/* Class = "UILabel"; text = "Save"; ObjectID = "SVI-Nf-uh4"; */
+"SVI-Nf-uh4.text" = "保存";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "Vzf-cK-NbX"; */
+"Vzf-cK-NbX.text" = "设备";
+
+/* Class = "UINavigationItem"; title = "Input Display"; ObjectID = "XNt-C8-aYL"; */
+"XNt-C8-aYL.title" = "输入显示";
+
+/* Class = "UILabel"; text = "Extension"; ObjectID = "YDz-KH-9qD"; */
+"YDz-KH-9qD.text" = "扩展";
+
+/* Class = "UILabel"; text = "Control"; ObjectID = "ZzT-Rm-yKb"; */
+"ZzT-Rm-yKb.text" = "控制";
+
+/* Class = "UILabel"; text = "Enabled"; ObjectID = "guQ-2N-RdV"; */
+"guQ-2N-RdV.text" = "已启用";
+
+/* Class = "UILabel"; text = "Device"; ObjectID = "kjf-MA-X5r"; */
+"kjf-MA-X5r.text" = "设备";
+
+/* Class = "UILabel"; text = "Expression"; ObjectID = "qbr-gL-AUS"; */
+"qbr-gL-AUS.text" = "表达式";
+
+/* Class = "UILabel"; text = "Extension"; ObjectID = "ql2-UH-PeX"; */
+"ql2-UH-PeX.text" = "扩展";
+
+/* Class = "UILabel"; text = "Show Input Display"; ObjectID = "uIh-jc-mMy"; */
+"uIh-jc-mMy.text" = "显示输入回显";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "uVt-Af-9Lt"; */
+"uVt-Af-9Lt.text" = "设置";
+
+/* Class = "UINavigationItem"; title = "Extension"; ObjectID = "xbM-OP-tKZ"; */
+"xbM-OP-tKZ.title" = "扩展";
+
+/* Class = "UINavigationItem"; title = "Mapping"; ObjectID = "xul-O9-NhX"; */
+"xul-O9-NhX.title" = "映射";
+
+/* Class = "UILabel"; text = "Extension"; ObjectID = "z6g-tm-gnc"; */
+"z6g-tm-gnc.text" = "扩展";

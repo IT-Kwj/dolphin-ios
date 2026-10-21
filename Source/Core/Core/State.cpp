@@ -5,6 +5,7 @@
 
 #include <algorithm>
 #include <condition_variable>
+#include <ctime>
 #include <filesystem>
 #include <locale>
 #include <map>
@@ -285,8 +286,12 @@ static std::string SystemTimeAsDoubleToString(double time)
   if (!local_time)
     return "";
 
+  char time_string[64];
+  std::tm time_buffer = *local_time;
+  std::strftime(time_string, sizeof(time_string), "%x %X", &time_buffer);
+
   // fmt is locale agnostic by default, so explicitly use current locale.
-  return fmt::format(std::locale{""}, "{:%x %X}", *local_time);
+  return fmt::format(std::locale{""}, "{}", time_string);
 }
 
 static std::string MakeStateFilename(int number);

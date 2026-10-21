@@ -1,0 +1,14 @@
+/* Class = "UILabel"; text = "You are about to run an NKit disc image. NKit disc images cause problems that don't happen with normal disc images. These problems include:\n\n• The emulated loading times are longer\n• You can't use NetPlay with people who have normal disc images\n• Input recordings are not compatible between NKit disc images and normal disc images\n• Savestates are not compatible between NKit disc images and normal disc images\n• Some games can crash, such as Super Paper Mario and Metal Gear Solid: The Twin Snakes\n• Wii games don't work at all in older versions of Dolphin and in many other programs\n\nAre you sure you want to continue anyway?"; ObjectID = "4Lp-si-dj1"; */
+"4Lp-si-dj1.text" = "你即将运行一个 NKit 光盘镜像。NKit 光盘镜像会导致普通光盘镜像不会出现的问题，包括：\n\n• 模拟加载时间更长\n• 无法与使用普通光盘镜像的玩家进行 NetPlay\n• NKit 光盘镜像与普通光盘镜像之间的输入录像不兼容\n• NKit 光盘镜像与普通光盘镜像之间的即时存档不兼容\n• 某些游戏可能会崩溃，例如《超级纸片马里奥》和《合金装备：孪蛇》\n• 在旧版 Dolphin 及许多其他程序中，Wii 游戏完全无法运行\n\n你确定要继续吗？";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "70Y-cl-4Xv"; */
+"70Y-cl-4Xv.normalTitle" = "取消";
+
+/* Class = "UILabel"; text = "NKit Warning"; ObjectID = "MKg-MP-jJG"; */
+"MKg-MP-jJG.text" = "NKit 警告";
+
+/* Class = "UILabel"; text = "Don't show this again"; ObjectID = "eYe-4D-X3n"; */
+"eYe-4D-X3n.text" = "不再显示";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "jPS-qP-47c"; */
+"jPS-qP-47c.normalTitle" = "是";

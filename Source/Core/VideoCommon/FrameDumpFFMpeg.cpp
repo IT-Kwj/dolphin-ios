@@ -9,6 +9,7 @@
 #endif
 
 #include <array>
+#include <ctime>
 #include <string>
 
 #include <fmt/chrono.h>
@@ -132,8 +133,11 @@ std::string GetDumpPath(const std::string& extension, std::time_t time, u32 inde
   const std::string path_prefix =
       File::GetUserPath(D_DUMPFRAMES_IDX) + SConfig::GetInstance().GetGameID();
 
-  const std::string base_name =
-      fmt::format("{}_{:%Y-%m-%d_%H-%M-%S}_{}", path_prefix, *local_time, index);
+  char time_string[32];
+  std::tm time_buffer = *local_time;
+  std::strftime(time_string, sizeof(time_string), "%Y-%m-%d_%H-%M-%S", &time_buffer);
+
+  const std::string base_name = fmt::format("{}_{}_{}", path_prefix, time_string, index);
 
   const std::string path = fmt::format("{}.{}", base_name, extension);
 

@@ -1,0 +1,8 @@
+/* Class = "UILabel"; text = "This version of DolphiniOS is no longer supported. Please update to the latest version."; ObjectID = "G2L-KW-hUh"; */
+"G2L-KW-hUh.text" = "此版本的 DolphiniOS 已不再受支持，请更新到最新版本。";
+
+/* Class = "UILabel"; text = "Update Required"; ObjectID = "MKg-MP-jJG"; */
+"MKg-MP-jJG.text" = "需要更新";
+
+/* Class = "UIButton"; normalTitle = "Update Now"; ObjectID = "jPS-qP-47c"; */
+"jPS-qP-47c.normalTitle" = "立即更新";

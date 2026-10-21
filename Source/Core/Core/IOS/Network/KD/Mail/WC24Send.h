@@ -65,7 +65,7 @@ private:
       "MAIL FROM: {0:016d}@wii.com\r\n"
       "RCPT TO: {1:016d}wii.com\r\n"
       "DATA\r\n"
-      "Date: {2:%a, %d %b %Y %X} GMT\r\n"
+      "Date: {2} GMT\r\n"
       "From: {0:016d}@wii.com\r\n"
       "To: {1:016d}@wii.com\r\n"
       "Message-Id: <00002000B0DF6BB47FE0303E0DB0D@wii.com>\r\n"

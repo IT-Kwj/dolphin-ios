@@ -1,0 +1,392 @@
+/* Class = "UILabel"; text = "Aspect Ratio"; ObjectID = "0Jc-TQ-Kjr"; */
+"0Jc-TQ-Kjr.text" = "宽高比";
+
+/* Class = "UILabel"; text = "Stereo"; ObjectID = "2Fb-zZ-YXT"; */
+"2Fb-zZ-YXT.text" = "立体声";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "3Q1-X2-XXf"; */
+"3Q1-X2-XXf.text" = "常规";
+
+/* Class = "UINavigationItem"; title = "Aspect Ratio"; ObjectID = "3rl-o2-iN6"; */
+"3rl-o2-iN6.title" = "宽高比";
+
+/* Class = "UILabel"; text = "Enable MMU"; ObjectID = "44a-xv-dfS"; */
+"44a-xv-dfS.text" = "启用 MMU";
+
+/* Class = "UILabel"; text = "Enable Custom RTC"; ObjectID = "46G-Mb-1hy"; */
+"46G-Mb-1hy.text" = "启用自定义 RTC";
+
+/* Class = "UITableViewSection"; headerTitle = "Backend Settings"; ObjectID = "4Ns-oO-aRP"; */
+"4Ns-oO-aRP.headerTitle" = "后端设置";
+
+/* Class = "UILabel"; text = "Engine"; ObjectID = "4XR-fB-Uaf"; */
+"4XR-fB-Uaf.text" = "引擎";
+
+/* Class = "UILabel"; text = "Show On-Screen Display Messages"; ObjectID = "4Zi-op-1sU"; */
+"4Zi-op-1sU.text" = "显示屏显消息";
+
+/* Class = "UITableViewSection"; headerTitle = "Volume"; ObjectID = "5M3-5y-j9I"; */
+"5M3-5y-j9I.headerTitle" = "音量";
+
+/* Class = "UILabel"; text = "Allow Writes to SD Card"; ObjectID = "5Zv-GN-hRM"; */
+"5Zv-GN-hRM.text" = "允许写入 SD 卡";
+
+/* Class = "UILabel"; text = "GameCube"; ObjectID = "6pf-kR-RoD"; */
+"6pf-kR-RoD.text" = "GameCube";
+
+/* Class = "UILabel"; text = "German"; ObjectID = "7Vg-RB-5CW"; */
+"7Vg-RB-5CW.text" = "德语";
+
+/* Class = "UINavigationItem"; title = "Config"; ObjectID = "7vA-H4-xrb"; */
+"7vA-H4-xrb.title" = "设置";
+
+/* Class = "UILabel"; text = "Backend"; ObjectID = "7wP-CJ-8PV"; */
+"7wP-CJ-8PV.text" = "后端";
+
+/* Class = "UILabel"; text = "System Language"; ObjectID = "9DI-ol-SST"; */
+"9DI-ol-SST.text" = "系统语言";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "9OE-FI-vjm"; */
+"9OE-FI-vjm.text" = "0%";
+
+/* Class = "UILabel"; text = "Change Discs Automatically"; ObjectID = "9he-wS-2Fz"; */
+"9he-wS-2Fz.text" = "自动切换光盘";
+
+/* Class = "UILabel"; text = "Position"; ObjectID = "BEG-O8-spe"; */
+"BEG-O8-spe.text" = "位置";
+
+/* Class = "UILabel"; text = "CPU Emulation Engine"; ObjectID = "Bfp-7u-0qj"; */
+"Bfp-7u-0qj.text" = "CPU 模拟引擎";
+
+/* Class = "UILabel"; text = "Sound"; ObjectID = "BlU-2o-JGE"; */
+"BlU-2o-JGE.text" = "声音";
+
+/* Class = "UILabel"; text = "16:9"; ObjectID = "Clx-le-Vbc"; */
+"Clx-le-Vbc.text" = "16:9";
+
+/* Class = "UITableViewSection"; headerTitle = "CPU Options"; ObjectID = "Dhq-BP-rXb"; */
+"Dhq-BP-rXb.headerTitle" = "CPU 选项";
+
+/* Class = "UILabel"; text = "Allow Mismatched Region Settings"; ObjectID = "DwD-Dg-nXC"; */
+"DwD-Dg-nXC.text" = "允许不匹配的区域设置";
+
+/* Class = "UITableViewSection"; headerTitle = "Misc Settings"; ObjectID = "EwP-gb-3vf"; */
+"EwP-gb-3vf.headerTitle" = "其它设置";
+
+/* Class = "UILabel"; text = "Confirm on Stop"; ObjectID = "F2g-Nt-t4o"; */
+"F2g-Nt-t4o.text" = "停止游戏时确认";
+
+/* Class = "UINavigationItem"; title = "Wii"; ObjectID = "FGt-ju-fqW"; */
+"FGt-ju-fqW.title" = "Wii";
+
+/* Class = "UITableViewController"; title = "Config"; ObjectID = "GC7-TA-DT1"; */
+"GC7-TA-DT1.title" = "设置";
+
+/* Class = "UILabel"; text = "0 MB"; ObjectID = "GkB-HW-gOg"; */
+"GkB-HW-gOg.text" = "0 MB";
+
+/* Class = "UINavigationItem"; title = "Speed Limit"; ObjectID = "GuG-3q-oSx"; */
+"GuG-3q-oSx.title" = "速度限制";
+
+/* Class = "UILabel"; text = "IR Sensitivity"; ObjectID = "HKr-LO-ZJY"; */
+"HKr-LO-ZJY.text" = "红外灵敏度";
+
+/* Class = "UITableViewSection"; headerTitle = "SD Card Settings"; ObjectID = "HbC-2c-92H"; */
+"HbC-2c-92H.headerTitle" = "SD 卡设置";
+
+/* Class = "UILabel"; text = "German"; ObjectID = "HmT-kY-6wi"; */
+"HmT-kY-6wi.text" = "德语";
+
+/* Class = "UINavigationItem"; title = "Interface"; ObjectID = "I9K-6N-Wgv"; */
+"I9K-6N-Wgv.title" = "界面";
+
+/* Class = "UILabel"; text = "Surround"; ObjectID = "JQY-2h-eIz"; */
+"JQY-2h-eIz.text" = "环绕";
+
+/* Class = "UILabel"; text = "Simplified Chinese"; ObjectID = "JtS-Bq-xqJ"; */
+"JtS-Bq-xqJ.text" = "简体中文";
+
+/* Class = "UILabel"; text = "Spanish"; ObjectID = "Kq3-zO-Wz6"; */
+"Kq3-zO-Wz6.text" = "西班牙语";
+
+/* Class = "UILabel"; text = "Audio Buffer Size"; ObjectID = "LaS-K8-o67"; */
+"LaS-K8-o67.text" = "缓冲大小";
+
+/* Class = "UITableViewSection"; headerTitle = "User Interface"; ObjectID = "Lbj-Vb-zkU"; */
+"Lbj-Vb-zkU.headerTitle" = "用户界面";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "NYf-8z-6kl"; */
+"NYf-8z-6kl.text" = "英语";
+
+/* Class = "UILabel"; text = "Speed Limit"; ObjectID = "Npl-cg-zxe"; */
+"Npl-cg-zxe.text" = "速度限制";
+
+/* Class = "UILabel"; text = "Use Built-In Database of Game Names"; ObjectID = "O40-Mu-3K1"; */
+"O40-Mu-3K1.text" = "使用内建数据库游戏名称";
+
+/* Class = "UILabel"; text = "Spanish"; ObjectID = "OA0-L0-Lsr"; */
+"OA0-L0-Lsr.text" = "西班牙语";
+
+/* Class = "UILabel"; text = "Traditional Chinese"; ObjectID = "OOb-ot-bsG"; */
+"OOb-ot-bsG.text" = "繁体中文";
+
+/* Class = "UITableViewSection"; footerTitle = "Adjusts the amount of RAM in the emulated console.\n\nWARNING: Enabling this will completely break many games. Only a small number of games can benefit from this."; ObjectID = "Q01-LG-j5M"; */
+"Q01-LG-j5M.footerTitle" = "调整模拟主机中的内存大小。\n\n警告：启用此选项会彻底破坏许多游戏，只有少数游戏能从中受益。";
+
+/* Class = "UITableViewSection"; headerTitle = "Memory Override"; ObjectID = "Q01-LG-j5M"; */
+"Q01-LG-j5M.headerTitle" = "内存覆盖";
+
+/* Class = "UILabel"; text = "Ratio"; ObjectID = "QAt-qC-pEy"; */
+"QAt-qC-pEy.text" = "比例";
+
+/* Class = "UINavigationItem"; title = "Audio Backend"; ObjectID = "QBS-Hf-JnR"; */
+"QBS-Hf-JnR.title" = "音频后端";
+
+/* Class = "UILabel"; text = "French"; ObjectID = "Qb1-Ol-BpB"; */
+"Qb1-Ol-BpB.text" = "法语";
+
+/* Class = "UITableViewSection"; headerTitle = "Basic Settings"; ObjectID = "RLw-ih-Lsp"; */
+"RLw-ih-Lsp.headerTitle" = "基本设置";
+
+/* Class = "UILabel"; text = "Audio"; ObjectID = "ROj-l7-xYo"; */
+"ROj-l7-xYo.text" = "音频";
+
+/* Class = "UILabel"; text = "Backend"; ObjectID = "S7p-3z-UpT"; */
+"S7p-3z-UpT.text" = "后端";
+
+/* Class = "UILabel"; text = "MEM1"; ObjectID = "Sza-kd-jso"; */
+"Sza-kd-jso.text" = "MEM1";
+
+/* Class = "UINavigationItem"; title = "Advanced"; ObjectID = "VTV-1S-N5h"; */
+"VTV-1S-N5h.title" = "高级";
+
+/* Class = "UILabel"; text = "0 MB"; ObjectID = "VlD-xp-cK3"; */
+"VlD-xp-cK3.text" = "0 MB";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "WAz-n9-zdh"; */
+"WAz-n9-zdh.text" = "0%";
+
+/* Class = "UINavigationItem"; title = "System Language"; ObjectID = "WJO-4V-SZ6"; */
+"WJO-4V-SZ6.title" = "系统语言";
+
+/* Class = "UINavigationItem"; title = "CPU Emulation Engine"; ObjectID = "Wtu-wr-8xr"; */
+"Wtu-wr-8xr.title" = "CPU 模拟引擎";
+
+/* Class = "UILabel"; text = "Mono"; ObjectID = "Wtw-Ba-5d3"; */
+"Wtw-Ba-5d3.text" = "单声道";
+
+/* Class = "UILabel"; text = "Korean"; ObjectID = "XWP-zt-ySg"; */
+"XWP-zt-ySg.text" = "韩语";
+
+/* Class = "UILabel"; text = "Enable Emulated CPU Clock Override"; ObjectID = "XkE-mc-OlD"; */
+"XkE-mc-OlD.text" = "启用模拟 CPU 频率覆盖";
+
+/* Class = "UILabel"; text = "Mode"; ObjectID = "ZbB-qU-VDU"; */
+"ZbB-qU-VDU.text" = "模式";
+
+/* Class = "UILabel"; text = "Insert SD Card"; ObjectID = "Zkh-q9-ifj"; */
+"Zkh-q9-ifj.text" = "插入 SD 卡";
+
+/* Class = "UILabel"; text = "Use PAL60 Mode (EuRGB60)"; ObjectID = "Zp1-mH-cmU"; */
+"Zp1-mH-cmU.text" = "使用 PAL60 模式 (EuRGB60)";
+
+/* Class = "UILabel"; text = "Top"; ObjectID = "aBB-xD-HlP"; */
+"aBB-xD-HlP.text" = "顶部";
+
+/* Class = "UITableViewSection"; headerTitle = "IPL Settings"; ObjectID = "at6-At-g74"; */
+"at6-At-g74.headerTitle" = "IPL 设置";
+
+/* Class = "UINavigationItem"; title = "Fallback Region"; ObjectID = "bMi-pD-kB9"; */
+"bMi-pD-kB9.title" = "备用区域";
+
+/* Class = "UINavigationItem"; title = "Sound"; ObjectID = "buI-Do-OuI"; */
+"buI-Do-OuI.title" = "声音";
+
+/* Class = "UINavigationItem"; title = "Sensor Bar Position"; ObjectID = "c4f-2N-YmD"; */
+"c4f-2N-YmD.title" = "感应条位置";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "cGI-iJ-CiJ"; */
+"cGI-iJ-CiJ.text" = "英语";
+
+/* Class = "UILabel"; text = "Enable Rumble"; ObjectID = "cMG-Bj-rfF"; */
+"cMG-Bj-rfF.text" = "启用震动";
+
+/* Class = "UILabel"; text = "0 ms"; ObjectID = "cmb-N5-yBD"; */
+"cmb-N5-yBD.text" = "0 ms";
+
+/* Class = "UILabel"; text = "Bottom"; ObjectID = "cnE-pL-axQ"; */
+"cnE-pL-axQ.text" = "底部";
+
+/* Class = "UILabel"; text = "Advanced"; ObjectID = "cne-eH-Kb9"; */
+"cne-eH-Kb9.text" = "高级";
+
+/* Class = "UILabel"; text = "Region"; ObjectID = "d8e-ou-2Fp"; */
+"d8e-ou-2Fp.text" = "地区";
+
+/* Class = "UINavigationItem"; title = "General"; ObjectID = "dB5-UY-CbC"; */
+"dB5-UY-CbC.title" = "常规";
+
+/* Class = "UILabel"; text = "Dutch"; ObjectID = "dS3-mz-mwz"; */
+"dS3-mz-mwz.text" = "荷兰语";
+
+/* Class = "UILabel"; text = "Wii"; ObjectID = "dpa-m4-rjN"; */
+"dpa-m4-rjN.text" = "Wii";
+
+/* Class = "UILabel"; text = "Italian"; ObjectID = "e8K-DS-sAI"; */
+"e8K-DS-sAI.text" = "意大利语";
+
+/* Class = "UILabel"; text = "Japanese"; ObjectID = "eGQ-bT-nYY"; */
+"eGQ-bT-nYY.text" = "日语";
+
+/* Class = "UITableViewSection"; footerTitle = "Adjusts the emulated CPU's clock rate.\n\nHigher values may make variable-framerate games run at a higher framerate, at the expense of performance. Lower values may activate a game's internal frameskip, potentially improving performance.\n\nWARNING: Changing this from the default (100%) can and will break games and cause glitches. Do so at your own risk. Please do not report bugs that occur with a non-default clock."; ObjectID = "fDr-Gl-zZI"; */
+"fDr-Gl-zZI.footerTitle" = "调整模拟 CPU 的时钟频率。\n\n在模拟速度已达满速但帧率仍不稳定的游戏中，较高的值可提升性能，但需要性能更强的设备；较低的值会降低模拟主机的性能，但可提高模拟速度。\n\n警告：从默认值（100%）修改会破坏游戏并导致故障，风险自负。请勿报告使用非默认频率时出现的问题。";
+
+/* Class = "UITableViewSection"; headerTitle = "Clock Override"; ObjectID = "fDr-Gl-zZI"; */
+"fDr-Gl-zZI.headerTitle" = "时钟频率覆盖";
+
+/* Class = "UILabel"; text = "Dutch"; ObjectID = "fTA-hM-qWa"; */
+"fTA-hM-qWa.text" = "荷兰语";
+
+/* Class = "UILabel"; text = "French"; ObjectID = "ga7-mT-af0"; */
+"ga7-mT-af0.text" = "法语";
+
+/* Class = "UILabel"; text = "Enable Cheats"; ObjectID = "gmP-nZ-ptN"; */
+"gmP-nZ-ptN.text" = "启用金手指";
+
+/* Class = "UILabel"; text = "Convert Folder to File Now"; ObjectID = "hJv-Z3-sDT"; */
+"hJv-Z3-sDT.text" = "立即将文件夹转换为文件";
+
+/* Class = "UILabel"; text = "Use Panic Handlers"; ObjectID = "ipP-Fv-k8r"; */
+"ipP-Fv-k8r.text" = "使用警告程序";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "k7E-dg-UcG"; */
+"k7E-dg-UcG.text" = "语言";
+
+/* Class = "UILabel"; text = "Download Game Covers from GameTDB.com"; ObjectID = "kzL-o9-q6A"; */
+"kzL-o9-q6A.text" = "从 GameTDB.com 下载游戏封面";
+
+/* Class = "UILabel"; text = "Automatically Sync with Folder"; ObjectID = "lLr-en-yJx"; */
+"lLr-en-yJx.text" = "自动与文件夹同步";
+
+/* Class = "UILabel"; text = "Sensor Bar Position"; ObjectID = "lVg-Mq-csQ"; */
+"lVg-Mq-csQ.text" = "感应条位置";
+
+/* Class = "UILabel"; text = "Italian"; ObjectID = "m9o-pl-QWA"; */
+"m9o-pl-QWA.text" = "意大利语";
+
+/* Class = "UILabel"; text = "Speaker Volume"; ObjectID = "mOy-fU-QWw"; */
+"mOy-fU-QWw.text" = "扬声器音量";
+
+/* Class = "UILabel"; text = "Convert File to Folder Now"; ObjectID = "nCM-18-d00"; */
+"nCM-18-d00.text" = "立即将文件转换为文件夹";
+
+/* Class = "UITableViewSection"; headerTitle = "Audio Playback Settings"; ObjectID = "owp-az-Oz8"; */
+"owp-az-Oz8.headerTitle" = "音频伸缩设置";
+
+/* Class = "UINavigationItem"; title = "Audio"; ObjectID = "oxt-T9-VEG"; */
+"oxt-T9-VEG.title" = "音频";
+
+/* Class = "UILabel"; text = "MEM2"; ObjectID = "pRO-hG-kn8"; */
+"pRO-hG-kn8.text" = "MEM2";
+
+/* Class = "UITableViewSection"; headerTitle = "Render Window"; ObjectID = "pTr-tD-qWn"; */
+"pTr-tD-qWn.headerTitle" = "渲染窗口";
+
+/* Class = "UILabel"; text = "Enable Dual Core (speedup)"; ObjectID = "pW2-Nr-TyB"; */
+"pW2-Nr-TyB.text" = "启用双核（加速）";
+
+/* Class = "UILabel"; text = "Connect USB Keyboard"; ObjectID = "qzS-Ua-Q83"; */
+"qzS-Ua-Q83.text" = "连接 USB 键盘";
+
+/* Class = "UILabel"; text = "Region"; ObjectID = "rlE-XT-vfw"; */
+"rlE-XT-vfw.text" = "地区";
+
+/* Class = "UILabel"; text = "Audio Backend"; ObjectID = "roE-vP-a3S"; */
+"roE-vP-a3S.text" = "音频后端";
+
+/* Class = "UILabel"; text = "Fallback Region"; ObjectID = "sCB-dz-YQe"; */
+"sCB-dz-YQe.text" = "备用区域";
+
+/* Class = "UINavigationItem"; title = "GameCube"; ObjectID = "sM7-RR-8uE"; */
+"sM7-RR-8uE.title" = "GameCube";
+
+/* Class = "UILabel"; text = "100% (486 MHz)"; ObjectID = "t3d-Dq-zsd"; */
+"t3d-Dq-zsd.text" = "100% (486 MHz)";
+
+/* Class = "UILabel"; text = "Interface"; ObjectID = "tbG-OU-QE8"; */
+"tbG-OU-QE8.text" = "界面";
+
+/* Class = "UILabel"; text = "Skip Main Menu"; ObjectID = "tdk-PU-XMm"; */
+"tdk-PU-XMm.text" = "跳过主菜单";
+
+/* Class = "UILabel"; text = "Engine"; ObjectID = "uhW-cT-kmX"; */
+"uhW-cT-kmX.text" = "引擎";
+
+/* Class = "UILabel"; text = "4:3"; ObjectID = "vr5-sd-t4l"; */
+"vr5-sd-t4l.text" = "4:3";
+
+/* Class = "UITableViewSection"; footerTitle = "Dolphin will use this for titles whose region cannot be determined automatically."; ObjectID = "w9f-Gt-sOg"; */
+"w9f-Gt-sOg.footerTitle" = "Dolphin 将对无法自动确定区域的游戏使用此设置。";
+
+/* Class = "UITableViewSection"; headerTitle = "Fallback Region"; ObjectID = "w9f-Gt-sOg"; */
+"w9f-Gt-sOg.headerTitle" = "备用区域";
+
+/* Class = "UITableViewSection"; footerTitle = "This setting allows you to set a custom real time clock (RTC) separate from your current system time.\n\nIf unsure, leave this unchecked."; ObjectID = "wxJ-yD-fCS"; */
+"wxJ-yD-fCS.footerTitle" = "此设置允许你设置一个与当前系统时间分离的自定义实时时钟（RTC）。\n\n如不确定，请保持未选中。";
+
+/* Class = "UITableViewSection"; headerTitle = "Custom RTC Options"; ObjectID = "wxJ-yD-fCS"; */
+"wxJ-yD-fCS.headerTitle" = "自定义 RTC 选项";
+
+/* Class = "UILabel"; text = "Enable Screen Saver"; ObjectID = "xZc-n0-nMx"; */
+"xZc-n0-nMx.text" = "允许屏幕保护程序";
+
+/* Class = "UILabel"; text = "Enable Emulated Memory Size Override"; ObjectID = "y8z-i5-E2j"; */
+"y8z-i5-E2j.text" = "启用模拟内存大小覆盖";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "yFY-lJ-VTt"; */
+"yFY-lJ-VTt.text" = "0%";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "yK8-Sw-KHg"; */
+"yK8-Sw-KHg.text" = "语言";
+
+/* Class = "UILabel"; text = "System Language"; ObjectID = "yXt-b0-DVU"; */
+"yXt-b0-DVU.text" = "系统语言";
+
+/* Class = "UINavigationItem"; title = "System Language"; ObjectID = "ybk-7b-Htb"; */
+"ybk-7b-Htb.title" = "系统语言";
+
+/* Class = "UITableViewSection"; headerTitle = "Wii Remote Settings"; ObjectID = "zwp-Y9-R4u"; */
+"zwp-Y9-R4u.headerTitle" = "Wii 遥控器设置";
+
+/* Class = "UILabel"; text = "Mute When Disabling Speed Limit"; ObjectID = "Mfd-Gl-VAJ"; */
+"Mfd-Gl-VAJ.text" = "禁用速度限制时静音";
+
+/* Class = "UILabel"; text = "Enable WiiConnect24 via WiiLink"; ObjectID = "gqx-Vg-DvG"; */
+"gqx-Vg-DvG.text" = "通过 WiiLink 启用 WiiConnect24";
+
+/* Class = "UILabel"; text = "Pause on Panic"; ObjectID = "UJ6-vy-Mp0"; */
+"UJ6-vy-Mp0.text" = "宕机时暂停";
+
+/* Class = "UILabel"; text = "Enable Write-Back Cache (slow)"; ObjectID = "Hdd-5M-Mss"; */
+"Hdd-5M-Mss.text" = "使用回写缓存 (慢速)";
+
+/* Class = "UILabel"; text = "Respect Silent Mode"; ObjectID = "2bp-Ny-hqL"; */
+"2bp-Ny-hqL.text" = "遵循静音模式";
+
+/* Class = "UILabel"; text = "Fill Audio Gaps"; ObjectID = "5ek-pI-D2E"; */
+"5ek-pI-D2E.text" = "填充音频间隔";
+
+/* Class = "UILabel"; text = "Enable VBI Frequency Override"; ObjectID = "JGz-3s-fdg"; */
+"JGz-3s-fdg.text" = "启用 VBI 频率覆盖";
+
+/* Class = "UITableViewSection"; footerTitle = "Adjusts the VBI frequency. Also adjusts the emulated CPU's clock rate, to keep it relatively the same.\n\nMakes games run at a different frame rate, making the emulation less demanding when lowered, or improving smoothness when increased. This may affect gameplay speed, as it is often tied to the frame rate.\n\nWARNING: Changing this from the default (100%) can and will break games and cause glitches. Do so at your own risk. Please do not report bugs that occur with a non-default frequency.\n\nIf unsure, leave this unchecked."; ObjectID = "QZs-JO-Rqe"; */
+"QZs-JO-Rqe.footerTitle" = "调整 VBI 频率，并相应调整模拟 CPU 的时钟频率以保持相对一致。\n\n该设置会让游戏以不同的帧率运行：降低可减轻模拟负担，提高则可提升流畅度。由于游戏速度通常与帧率绑定，这可能会影响游戏速度。\n\n警告：从默认值（100%）修改会破坏游戏并导致故障，风险自负。请勿报告使用非默认频率时出现的问题。\n\n如不确定，请保持未选中。";
+
+/* Class = "UITableViewSection"; headerTitle = "VBI Frequency Override"; ObjectID = "QZs-JO-Rqe"; */
+"QZs-JO-Rqe.headerTitle" = "VBI 频率覆盖";
+
+/* Class = "UILabel"; text = "100% (59.94 VPS)"; ObjectID = "cZ7-Ck-sxG"; */
+"cZ7-Ck-sxG.text" = "100% (59.94 VPS)";
+
+/* Class = "UILabel"; text = "Emulate Skylander Portal"; ObjectID = "v5h-zA-gqE"; */
+"v5h-zA-gqE.text" = "模拟 Skylander 传送门";

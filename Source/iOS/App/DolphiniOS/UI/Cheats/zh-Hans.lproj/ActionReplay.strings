@@ -1,0 +1,20 @@
+/* Class = "UINavigationItem"; title = "Edit"; ObjectID = "0c0-eg-hy8"; */
+"0c0-eg-hy8.title" = "编辑";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "5wc-1D-6mv"; */
+"5wc-1D-6mv.text" = "名称";
+
+/* Class = "UILabel"; text = "Add"; ObjectID = "XD8-Gb-VA8"; */
+"XD8-Gb-VA8.text" = "添加";
+
+/* Class = "UITextView"; text = "Code..."; ObjectID = "jo0-lN-bfP"; */
+"jo0-lN-bfP.text" = "代码...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oKt-xV-2kr"; */
+"oKt-xV-2kr.text" = "标签";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "pGc-Oj-2xC"; */
+"pGc-Oj-2xC.placeholder" = "名称";
+
+/* Class = "UINavigationItem"; title = "Action Replay"; ObjectID = "ugT-xf-Iad"; */
+"ugT-xf-Iad.title" = "Action Replay";

@@ -3,6 +3,8 @@
 
 #include "AudioCommon/AudioCommon.h"
 
+#include <ctime>
+
 #include <fmt/chrono.h>
 #include <fmt/format.h>
 
@@ -231,7 +233,11 @@ void StartAudioDump(Core::System& system)
   if (!local_time)
     return;
 
-  std::string base_name = fmt::format("{}_{:%Y-%m-%d_%H-%M-%S}", path_prefix, *local_time);
+  char time_string[32];
+  std::tm time_buffer = *local_time;
+  std::strftime(time_string, sizeof(time_string), "%Y-%m-%d_%H-%M-%S", &time_buffer);
+
+  std::string base_name = fmt::format("{}_{}", path_prefix, time_string);
 
   const std::string audio_file_name_dtk = fmt::format("{}_dtkdump.wav", base_name);
   const std::string audio_file_name_dsp = fmt::format("{}_dspdump.wav", base_name);

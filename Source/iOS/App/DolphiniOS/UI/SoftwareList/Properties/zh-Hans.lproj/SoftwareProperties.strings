@@ -1,0 +1,44 @@
+/* Class = "UINavigationItem"; title = "Info"; ObjectID = "0sd-DL-eTf"; */
+"0sd-DL-eTf.title" = "信息";
+
+/* Class = "UILabel"; text = "Placeholder"; ObjectID = "1pX-f5-h5z"; */
+"1pX-f5-h5z.text" = "占位符";
+
+/* Class = "UILabel"; text = "Game ID"; ObjectID = "3ki-65-u9z"; */
+"3ki-65-u9z.text" = "游戏 ID";
+
+/* Class = "UINavigationItem"; title = "Software"; ObjectID = "5Wb-DS-nHa"; */
+"5Wb-DS-nHa.title" = "软件";
+
+/* Class = "UILabel"; text = "Info"; ObjectID = "9FB-Tk-SzM"; */
+"9FB-Tk-SzM.text" = "信息";
+
+/* Class = "UILabel"; text = "Placeholder"; ObjectID = "9OE-hZ-v7a"; */
+"9OE-hZ-v7a.text" = "占位符";
+
+/* Class = "UILabel"; text = "Gecko"; ObjectID = "GTb-ce-7dJ"; */
+"GTb-ce-7dJ.text" = "Gecko";
+
+/* Class = "UILabel"; text = "Placeholder"; ObjectID = "IRK-r9-edu"; */
+"IRK-r9-edu.text" = "占位符";
+
+/* Class = "UILabel"; text = "Apploader Date"; ObjectID = "cuQ-yW-eIB"; */
+"cuQ-yW-eIB.text" = "应用载入器时间";
+
+/* Class = "UILabel"; text = "Placeholder"; ObjectID = "eWw-Zc-jzV"; */
+"eWw-Zc-jzV.text" = "占位符";
+
+/* Class = "UILabel"; text = "Placeholder"; ObjectID = "gPT-8u-7TQ"; */
+"gPT-8u-7TQ.text" = "占位符";
+
+/* Class = "UILabel"; text = "Maker"; ObjectID = "vQa-ww-U8e"; */
+"vQa-ww-U8e.text" = "制作者";
+
+/* Class = "UILabel"; text = "Action Replay"; ObjectID = "x4n-OF-ose"; */
+"x4n-OF-ose.text" = "Action Replay";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "y7H-dm-qZV"; */
+"y7H-dm-qZV.text" = "名称";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "zCl-Kt-B18"; */
+"zCl-Kt-B18.text" = "国家";

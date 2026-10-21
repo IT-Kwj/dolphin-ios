@@ -1,0 +1,14 @@
+/* Class = "UILabel"; text = "DolphiniOS is waiting for a remote debugger to connect before emulation can start.\n\nThe Dolphin core uses a technique known as \"JIT\" to emulate the GameCube and Wii's CPU at fast speeds.\n\nApple does not allow JIT to be used on iOS by default. However, by attaching a debugger, iOS will allow JIT to be used.\n\nFor more information, tap \"Help\"."; ObjectID = "4Lp-si-dj1"; */
+"4Lp-si-dj1.text" = "DolphiniOS 正在等待远程调试器连接，之后才能开始模拟。\n\nDolphin 核心使用名为“JIT”的技术来高速模拟 GameCube 和 Wii 的 CPU。\n\n默认情况下，Apple 不允许在 iOS 上使用 JIT。但通过连接调试器，iOS 将允许使用 JIT。\n\n如需更多信息，请轻点“帮助”。";
+
+/* Class = "UILabel"; text = "Waiting for JIT"; ObjectID = "MKg-MP-jJG"; */
+"MKg-MP-jJG.text" = "正在等待 JIT";
+
+/* Class = "UIButton"; normalTitle = "Use No JIT Mode (Slow)"; ObjectID = "igz-Lu-Uje"; */
+"igz-Lu-Uje.normalTitle" = "使用无 JIT 模式（较慢）";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "jPS-qP-47c"; */
+"jPS-qP-47c.normalTitle" = "取消";
+
+/* Class = "UIButton"; normalTitle = "Help"; ObjectID = "sCq-RD-iKA"; */
+"sCq-RD-iKA.normalTitle" = "帮助";

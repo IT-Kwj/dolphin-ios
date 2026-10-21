@@ -1,0 +1,59 @@
+/* Class = "UITableViewSection"; headerTitle = "Controllers"; ObjectID = "1ZP-Lv-HFk"; */
+"1ZP-Lv-HFk.headerTitle" = "控制器";
+
+/* Class = "UILabel"; text = "Sync on Idle Skip"; ObjectID = "2pz-8r-qdY"; */
+"2pz-8r-qdY.text" = "空闲跳过时同步";
+
+/* Class = "UILabel"; text = "Reset Launch Times"; ObjectID = "3PV-pn-JK8"; */
+"3PV-pn-JK8.text" = "重置启动次数";
+
+/* Class = "UILabel"; text = "Force Start Motion Updates"; ObjectID = "4dU-SC-T4s"; */
+"4dU-SC-T4s.text" = "强制启动动作更新";
+
+/* Class = "UITableViewSection"; headerTitle = "General"; ObjectID = "CQZ-c3-hch"; */
+"CQZ-c3-hch.headerTitle" = "常规";
+
+/* Class = "UILabel"; text = "Attach Virtual MFi Controller"; ObjectID = "FQ0-QP-lba"; */
+"FQ0-QP-lba.text" = "连接虚拟 MFi 控制器";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "Kz5-Rc-gFe"; */
+"Kz5-Rc-gFe.text" = "错误";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "LCT-Ag-ZWC"; */
+"LCT-Ag-ZWC.text" = "状态";
+
+/* Class = "UILabel"; text = "Launch Times"; ObjectID = "Mmx-9m-f0E"; */
+"Mmx-9m-f0E.text" = "启动次数";
+
+/* Class = "UILabel"; text = "Fastmem"; ObjectID = "ONW-vp-oHG"; */
+"ONW-vp-oHG.text" = "Fastmem";
+
+/* Class = "UITableViewSection"; headerTitle = "Environment"; ObjectID = "Wjd-dq-aKz"; */
+"Wjd-dq-aKz.headerTitle" = "环境";
+
+/* Class = "UILabel"; text = "User Folder"; ObjectID = "Z7n-lr-Ihh"; */
+"Z7n-lr-Ihh.text" = "用户文件夹";
+
+/* Class = "UILabel"; text = "JIT Acquisition Error"; ObjectID = "cuV-fs-BNU"; */
+"cuV-fs-BNU.text" = "JIT 获取错误";
+
+/* Class = "UILabel"; text = "Counter"; ObjectID = "kC2-2W-9iQ"; */
+"kC2-2W-9iQ.text" = "计数器";
+
+/* Class = "UITableViewSection"; headerTitle = "Utility"; ObjectID = "mI7-g0-bJu"; */
+"mI7-g0-bJu.headerTitle" = "实用功能";
+
+/* Class = "UINavigationItem"; title = "Debug"; ObjectID = "mqY-o6-IVF"; */
+"mqY-o6-IVF.title" = "调试";
+
+/* Class = "UILabel"; text = "JIT Acquisition"; ObjectID = "mxy-Ev-5WN"; */
+"mxy-Ev-5WN.text" = "JIT 获取";
+
+/* Class = "UILabel"; text = "Fastmem"; ObjectID = "uOM-rK-8Fg"; */
+"uOM-rK-8Fg.text" = "Fastmem";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "uj0-ML-CPe"; */
+"uj0-ML-CPe.text" = "状态";
+
+/* Class = "UILabel"; text = "Path"; ObjectID = "v9G-Mi-XiD"; */
+"v9G-Mi-XiD.text" = "路径";

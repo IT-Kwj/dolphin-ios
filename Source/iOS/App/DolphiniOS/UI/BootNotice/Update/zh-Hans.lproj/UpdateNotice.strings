@@ -1,0 +1,20 @@
+/* Class = "UIButton"; normalTitle = "See Changes"; ObjectID = "Ddp-vN-h8U"; */
+"Ddp-vN-h8U.normalTitle" = "查看更改";
+
+/* Class = "UILabel"; text = "DolphiniOS version 1.0.0 is now available."; ObjectID = "G2L-KW-hUh"; */
+"G2L-KW-hUh.text" = "DolphiniOS 1.0.0 现已可用。";
+
+/* Class = "UILabel"; text = "Update"; ObjectID = "MKg-MP-jJG"; */
+"MKg-MP-jJG.text" = "更新";
+
+/* Class = "UILabel"; text = "Changes Placeholder"; ObjectID = "cRL-yG-mYd"; */
+"cRL-yG-mYd.text" = "更改占位符";
+
+/* Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "gmF-1y-bUR"; */
+"gmF-1y-bUR.normalTitle" = "以后再说";
+
+/* Class = "UIButton"; normalTitle = "Update Now"; ObjectID = "jPS-qP-47c"; */
+"jPS-qP-47c.normalTitle" = "立即更新";
+
+/* Class = "UILabel"; text = "WARNING: Save states made on this version of DolphiniOS cannot be loaded after updating to the new version.\n\nSave data on GameCube Memory Cards or the emulated Wii's memory is not affected."; ObjectID = "luA-1B-bZp"; */
+"luA-1B-bZp.text" = "警告：在当前版本的 DolphiniOS 上创建的即时存档，在更新到新版本后将无法加载。\n\nGameCube 记忆卡或模拟 Wii 内存中的保存数据不受影响。";

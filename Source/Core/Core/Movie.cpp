@@ -7,6 +7,7 @@
 #include <array>
 #include <cctype>
 #include <cstring>
+#include <ctime>
 #include <iterator>
 #include <locale>
 #include <mbedtls/config.h>
@@ -157,10 +158,13 @@ std::string MovieManager::GetRTCDisplay() const
   using ExpansionInterface::CEXIIPL;
 
   const time_t current_time = CEXIIPL::GetEmulatedTime(m_system, CEXIIPL::UNIX_EPOCH);
-  const tm gm_time = fmt::gmtime(current_time);
+  std::tm time_buffer{};
+  gmtime_r(&current_time, &time_buffer);
+  char date_string[64];
+  std::strftime(date_string, sizeof(date_string), "%c", &time_buffer);
 
   // Use current locale for formatting time, as fmt is locale-agnostic by default.
-  return fmt::format(std::locale{""}, "Date/Time: {:%c}", gm_time);
+  return fmt::format("Date/Time: {}", date_string);
 }
 
 // NOTE: GPU Thread

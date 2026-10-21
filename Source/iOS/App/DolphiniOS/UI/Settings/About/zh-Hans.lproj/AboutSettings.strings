@@ -1,0 +1,23 @@
+/* Class = "UILabel"; text = "“GameCube” and “Wii” are trademarks of Nintendo. DolphiniOS is not affiliated with Nintendo in any way."; ObjectID = "8w5-VR-H8a"; */
+"8w5-VR-H8a.text" = "“GameCube”和“Wii”是任天堂的商标。DolphiniOS 与任天堂没有任何关联。";
+
+/* Class = "UIButton"; normalTitle = "Source Code"; ObjectID = "FwA-Fg-pzu"; */
+"FwA-Fg-pzu.normalTitle" = "源代码";
+
+/* Class = "UILabel"; text = "DolphiniOS is an unofficial and separately maintained port of Dolphin to iOS. The DolphiniOS Project has no relation to Dolphin Team."; ObjectID = "JaN-3a-Tvq"; */
+"JaN-3a-Tvq.text" = "DolphiniOS 是 Dolphin 面向 iOS 的非官方、独立维护移植版。DolphiniOS 项目与 Dolphin 团队没有任何关系。";
+
+/* Class = "UINavigationItem"; title = "About Dolphin"; ObjectID = "L8Z-ZE-fDO"; */
+"L8Z-ZE-fDO.title" = "关于 Dolphin";
+
+/* Class = "UILabel"; text = "This software should not be used to play games you do not legally own."; ObjectID = "UOw-we-WEE"; */
+"UOw-we-WEE.text" = "该软件不能用于运行你非法持有的游戏。";
+
+/* Class = "UILabel"; text = "© 2003-2015+ Dolphin Team. \n© 2019-2024+ DolphiniOS Project."; ObjectID = "dxR-ZO-FZU"; */
+"dxR-ZO-FZU.text" = "© 2003-2015+ Dolphin Team.\n© 2019-2024+ DolphiniOS Project.";
+
+/* Class = "UIViewController"; title = "About Dolphin"; ObjectID = "jWY-Tc-15b"; */
+"jWY-Tc-15b.title" = "关于 Dolphin";
+
+/* Class = "UILabel"; text = "DolphiniOS"; ObjectID = "tic-qF-vKG"; */
+"tic-qF-vKG.text" = "DolphiniOS";
